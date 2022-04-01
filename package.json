@@ -1,0 +1,26 @@
+{
+  "name": "test-peer-depend-npm",
+  "version": "1.3.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gramps-graphql/gramps-express.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-peers": "npm-install-peers",
+    "semantic-release": "semantic-release -d --ci --debug"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-install-peers": "^1.2.2"
+  },
+  "peerDependencies": {
+    "lodash": ">=3.10.1"
+  },
+  "dependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
