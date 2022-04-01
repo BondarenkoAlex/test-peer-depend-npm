@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gramps-graphql/gramps-express.git"
+    "url": "https://github.com/BondarenkoAlex/test-peer-depend-npm.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
