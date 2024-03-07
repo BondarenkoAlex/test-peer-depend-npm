@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install-peers": "npm-install-peers",
-    "semantic-release": "semantic-release -d --ci --debug"
+    "semantic-release": "semantic-release"
   },
   "author": "",
   "license": "ISC",
