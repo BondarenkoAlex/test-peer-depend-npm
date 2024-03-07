@@ -1,6 +1,6 @@
 {
   "name": "test-peer-depend-npm",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "npm-install-peers": "^1.2.2"
   },
   "peerDependencies": {
