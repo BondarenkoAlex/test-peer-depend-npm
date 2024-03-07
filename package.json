@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install-peers": "npm-install-peers",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release --no-ci --gh-token=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"
   },
   "author": "",
   "license": "ISC",
