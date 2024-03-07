@@ -18,7 +18,6 @@ var testFind = _.result(_.find(users1, function(chr) {
   return chr.age < 40;
 }), 'user');
 
-
 // => 'barneybarney'
 module.exports.testFindWhere = testFindWhere;
 module.exports.testFind = testFind;
