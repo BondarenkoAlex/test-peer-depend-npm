@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/BondarenkoAlex/test-peer-depend-npm.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install-peers": "npm-install-peers",
