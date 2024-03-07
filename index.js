@@ -19,6 +19,7 @@ var testFind = _.result(_.find(users1, function(chr) {
 }), 'user');
 
 
+
 // => 'barneybarney'
 module.exports.testFindWhere = testFindWhere;
 module.exports.testFind = testFind;
