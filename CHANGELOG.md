@@ -1,3 +1,15 @@
+# [8.0.0](https://github.com/BondarenkoAlex/test-peer-depend-npm/compare/v7.0.0...v8.0.0) (2024-03-07)
+
+
+### Features
+
+* Test8 ([4172f78](https://github.com/BondarenkoAlex/test-peer-depend-npm/commit/4172f7800bc7a82156b044b5b722041f50d7b68b))
+
+
+### BREAKING CHANGES
+
+* Test8
+
 # [7.0.0](https://github.com/BondarenkoAlex/test-peer-depend-npm/compare/v6.0.0...v7.0.0) (2024-03-07)
 
 
