@@ -1,19 +1,17 @@
 {
   "name": "test-peer-depend-npm",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/BondarenkoAlex/test-peer-depend-npm.git"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install-peers": "npm-install-peers",
-    "semantic-release": "semantic-release --no-ci --gh-token=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 --npm-token=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"
+    "semantic-release": "semantic-release --no-ci --gh-token=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 --npm-token=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",
+    "semantic-release1": "semantic-release --no-ci"
   },
   "author": "",
   "license": "ISC",
